@@ -96,7 +96,7 @@ Deskripsi singkat tentang project ini — masalah apa yang diselesaikan dan siap
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aiininratnadwitanti&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aiininratnadwitanti&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiininratnadwitanti&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
@@ -113,7 +113,7 @@ Deskripsi singkat tentang project ini — masalah apa yang diselesaikan dan siap
 ## 🏆 Trophy Room
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aiininratnadwitanti&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=aiininratnadwitanti&theme=flat&no-frame=true&row=1&column=7" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
