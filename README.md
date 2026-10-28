@@ -2,7 +2,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aiininratna/aiininratna/main/banner_developer_workspace_1793167743836" alt="AIININ.DEV Banner — Building Digital Experiences Through Code" width="100%" />
+  <img src="https://raw.githubusercontent.com/aiininratna/aiininratna/main/banner.jpg" alt="AIININ.DEV Banner — Building Digital Experiences Through Code" width="100%" />
 </p>
 
 <div align="center">
