@@ -13,14 +13,14 @@
 <br/><br/>
 
 <img src="head-about (1).svg" width="100%" />
-<img src="profile-card (1).svg" width="100%" alt="Aiinin Ratna" />
+<img src="profile-card.svg" width="100%" alt="Aiinin Ratna" />
 
 <br/><br/>
 
 <img src="head-iot (1).svg" width="100%" />
 <img src="project-aquarium.svg" width="100%" alt="Smart Aquarium" />
 <br/><br/>
-<img src="project-village.svg" width="100%" alt="Smart Village" />
+<img src="project-village-v2.svg" width="100%" alt="Smart Village" />
 
 <br/><br/>
 
