@@ -13,7 +13,7 @@
 <br/><br/>
 
 <img src="head-about (1).svg" width="100%" />
-<img src="about (1).svg" width="100%" />
+<img src="profile-card.svg" width="100%" alt="Aiinin Ratna" />
 
 <br/><br/>
 
@@ -25,8 +25,6 @@
 <br/><br/>
 
 <img src="head-skills.svg" width="100%" />
-<img src="skills.svg" width="100%" />
-<br/><br/>
 <img src="stack (1).svg" width="100%" />
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php,java,html,css,react,tailwind,nodejs,mysql,mongodb,arduino,git,github,docker&perline=9" />
