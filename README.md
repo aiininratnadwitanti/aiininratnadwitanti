@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero.svg" width="100%" alt="Ratna - Web Developer x IoT Builder" />
+<img src="hero (1).svg" width="100%" alt="Ratna - Web Developer x IoT Builder" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=FF5FA2&center=true&vCenter=true&width=700&height=50&lines=Web+Developer;IoT+Enthusiast;ESP32+Tinkerer;Lifelong+Learner" alt="typing" />
 
@@ -12,12 +12,12 @@
 
 <br/><br/>
 
-<img src="head-about.svg" width="100%" />
-<img src="about.svg" width="100%" />
+<img src="head-about (1).svg" width="100%" />
+<img src="about (1).svg" width="100%" />
 
 <br/><br/>
 
-<img src="head-iot.svg" width="100%" />
+<img src="head-iot (1).svg" width="100%" />
 <img src="project-aquarium.svg" width="100%" alt="Smart Aquarium" />
 <br/><br/>
 <img src="project-village.svg" width="100%" alt="Smart Village" />
@@ -27,7 +27,7 @@
 <img src="head-skills.svg" width="100%" />
 <img src="skills.svg" width="100%" />
 <br/><br/>
-<img src="stack.svg" width="100%" />
+<img src="stack (1).svg" width="100%" />
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php,java,html,css,react,tailwind,nodejs,mysql,mongodb,arduino,git,github,docker&perline=9" />
 
@@ -76,7 +76,7 @@ Deskripsi singkat proyek: fitur utama dan teknologi yang dipakai.
 
 <br/>
 
-<img src="head-stats.svg" width="100%" />
+<img src="head-stats (1).svg" width="100%" />
 
 <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub 3D contribution" />
 
@@ -87,6 +87,6 @@ Deskripsi singkat proyek: fitur utama dan teknologi yang dipakai.
 
 <br/>
 
-<img src="footer.svg" width="100%" />
+<img src="footer (2).svg" width="100%" />
 
 </div>
