@@ -1,241 +1,124 @@
-# AIININ.DEV — Code Beyond Limits
-
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aiininratna/aiininratna/main/banner.jpg" alt="AIININ.DEV Banner — Building Digital Experiences Through Code" width="100%" />
-</p>
-
 <div align="center">
 
-# Hello, World! I'm Aiinin Ratna 👋
-### ⚡ Developer in Progress, Builder by Passion
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aiininratna)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aiininratna02@gmail.com)
-[![Play Code Quest](https://img.shields.io/badge/🎮_Play_Mini_Game-Code_Quest-06B6D4?style=for-the-badge)](https://aiininratna.github.io/code-quest/)
-
-<p align="center">
-  <em>Informatics Management Student with an appetite for crafting web applications, exploring Artificial Intelligence, and bridging software with Internet of Things hardware.</em>
-</p>
-
-</div>
-
----
-
-## ⚡ About Me
-
-```bash
-$ whoami
-Aiinin Ratna (aiininratna)
-
-$ current_status
-Informatics Management Student & Software Builder
-
-$ primary_interest
-Software Development (Full-Stack & Responsive Systems)
-
-$ exploratory_passions
-Artificial Intelligence • Internet of Things (IoT)
-
-$ mission
-"Turning practical ideas into structured, useful digital solutions through code."
-```
-
-- 🎓 **Education:** Informatics Management Student.
-- 🚀 **Currently Building:** Student learning platforms, responsive dashboards, and smart automated prototypes.
-- 🔭 **Focus Areas:** Web application architecture, RESTful backend APIs, and hardware-software telemetry.
-- 💡 **Philosophy:** Build with clean code, test systematically, and continuously explore real-world integrations.
-
----
-
-## 🎯 Developer Focus
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💻 Software Development</h3>
-      <p><em>Primary Specialty</em></p>
-      <ul>
-        <li>Responsive Web Application Architecture</li>
-        <li>Component-Driven Frontend Development</li>
-        <li>REST API Design & Backend Routing</li>
-        <li>Relational Database Modeling & SQL Queries</li>
-        <li>Clean UI Implementation with Modern Tooling</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Artificial Intelligence</h3>
-      <p><em>Exploration & Integration</em></p>
-      <ul>
-        <li>AI Application & API Integration</li>
-        <li>Text Classification & Pattern Analysis</li>
-        <li>Risk & Anomaly Detection Workflows</li>
-        <li>Python-based Machine Learning Experiments</li>
-        <li>AI-Assisted Developer Productivity</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📡 Internet of Things (IoT)</h3>
-      <p><em>Hardware-Software Systems</em></p>
-      <ul>
-        <li>Microcontroller Prototyping (ESP32)</li>
-        <li>Sensor Telemetry (Ultrasonic, IR, Environment)</li>
-        <li>Actuator & Servo Motor Control</li>
-        <li>Hardware-to-Cloud Data Communication</li>
-        <li>Smart Automation & Monitoring Systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack Explorer
-
-> *Note: Technologies are categorized based on authentic hands-on experience, ongoing study, and active exploration.*
-
-### 🟢 Used in Projects
-These are technologies actively applied in coursework, applications, and system development:
-- **Languages:** JavaScript, Python, PHP, HTML5, CSS3, SQL
-- **Frontend:** React, Vue.js, Vite, Tailwind CSS, Responsive Design
-- **Backend:** Node.js, Express.js, RESTful APIs, Session & Token Authentication
-- **Database:** MySQL, Relational Database Normalization, Query Optimization
-- **Development Tools:** Git, GitHub, Visual Studio Code
-
-### 🟡 Currently Learning
-Technologies actively being studied and implemented in experimental repos:
-- **Languages & Frameworks:** Advanced TypeScript patterns, Next.js
-- **Architecture:** API Gateway patterns, Microservices fundamentals
-- **Testing & Tooling:** Postman API Testing collections, Docker container basics
-
-### 🔵 Exploring & Prototyping
-Emerging fields of interest and active experimental prototypes:
-- **AI Integrations:** LLM API orchestration, Natural Language text analysis
-- **IoT Hardware:** ESP32 development boards, Arduino C++, Sensor integration (I2C/SPI)
-
----
-
-## 🚀 Featured Projects
-
-### 1. 📚 Teman Belajar
-*A structured learning companion and utility hub designed to address daily academic workflow needs for university students.*
-- **Category:** Web Application / EdTech
-- **Status:** `In Progress`
-- **Core Stack:** Vue.js / React, Node.js, MySQL
-- **Key Highlights:** Task and assignment coordination, study material repository, and responsive student workspace.
-- **Repository:** `https://github.com/aiininratna/teman-belajar`
-
----
-
-### 2. 📊 FinStart
-*Financial information system and management dashboard providing structured operational modules and transaction tracking.*
-- **Category:** Management Information System
-- **Status:** `In Progress`
-- **Core Stack:** PHP / Node.js, MySQL, Responsive Dashboard UI
-- **Key Highlights:** Financial recording modules, categorized ledger views, summary reporting, and role-conscious access.
-- **Repository:** `https://github.com/aiininratna/finstart`
-
----
-
-### 3. 🛡️ Cek Aja
-*An experimental concept and digital verification tool focused on detecting suspicious content, spam patterns, or high-risk text.*
-- **Category:** AI / Text Analysis Concept
-- **Status:** `Prototype / Exploration`
-- **Core Stack:** Python, REST API, NLP Experimentation
-- **Key Highlights:** Input text classification, rule-assisted heuristic screening, and confidence scoring interface.
-- **Repository:** `https://github.com/aiininratna/cek-aja`
-
----
-
-### 4. ♻️ SMART WASTE ONE ENTRY SYSTEM
-*An IoT-enabled smart waste sorting and bin automation prototype featuring microcontrollers, sensors, and incentive tracking.*
-- **Category:** Internet of Things & Embedded Hardware
-- **Status:** `Prototype`
-- **Core Stack:** ESP32, Ultrasonic & Optical Sensors, Servo Actuators, C++
-- **Key Highlights:** Automated single-entry receptacle opening via proximity detection, fill-level detection, material segregation trigger, and incentive mechanism.
-- **Repository:** `https://github.com/aiininratna/smart-waste-system`
-
----
-
-### 5. 🔬 Lab & Experimental Prototypes
-*A collection of mini-tools, algorithm challenges, UI components, and technical prototypes built to master new libraries.*
-- **Repository:** `https://github.com/aiininratna/dev-experiments`
-
----
-
-## 🎮 Interactive Mini Game: Code Quest
-
-Looking for a challenge? Test your programming, logic, and debugging instincts in **Code Quest: Debug the Matrix**!
-
-[![Play Code Quest Banner](https://img.shields.io/badge/👾_LAUNCH_MINI_GAME-CODE_QUEST:_DEBUG_THE_MATRIX-06B6D4?style=for-the-badge&logo=matrix&logoColor=white)](https://aiininratna.github.io/code-quest/)
-
-- 🕹️ **Features:** 3 clearance levels (Novice, Specialist, Matrix Architect), streak multipliers, audio synth FX, and instant explanations.
-- 🌐 **Host link:** [Play on GitHub Pages](https://aiininratna.github.io/code-quest/) or run directly via the live portfolio app!
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/aiininratna">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiininratna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=06b6d4&icon_color=3b82f6&text_color=e2e8f0" alt="Aiinin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/aiininratna">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiininratna&layout=compact&theme=tokyonight&hide_border=true&bg_color=050811&title_color=06b6d4&text_color=e2e8f0" alt="Top Languages" />
-</a>
+<img src="assets/banner.svg" width="100%" alt="Ratna The Builder" />
 
 <br/>
 
-<a href="https://github.com/aiininratna">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aiininratna&theme=tokyonight&hide_border=true&background=050811&ring=06b6d4&fire=06b6d4&currStreakNum=38bdf8" alt="GitHub Streak Stats" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=2FA4FF&center=true&vCenter=true&width=520&height=60&lines=Ratna+here+%F0%9F%94%A5+!" alt="Ratna here" />
 
 </div>
 
----
+<h2 align="center">Hi 👋 I'm Ratna</h2>
 
-## 🗺️ Learning Roadmap
+## 💫 About Me
 
-```
-[CURRENTLY BUILDING]
-├─ Full-Stack web projects with structured API endpoints
-├─ Solidifying relational database design & query tuning
-└─ Implementing responsive and accessible frontend designs
+<img src="https://komarev.com/ghpvc/?username=aiininratnadwitanti&label=Profile%20Views&color=5865F2&style=flat" />
 
-[NEXT TO EXPLORE]
-├─ Docker containerization for predictable environments
-├─ Automated testing pipelines (Unit & Integration tests)
-└─ Deep-dive into cloud server deployment & CI/CD workflows
+<table>
+<tr>
+<td width="55%" valign="top">
 
-[LONG-TERM DIRECTION]
-├─ Designing resilient, distributed software systems
-├─ Real-world IoT automation integrating cloud telemetry
-└─ Practical machine learning solutions for everyday productivity
-```
+🌟 Memulai perjalanan di dunia pemrograman lewat **Web Development**
 
----
+🌙 Mengerjakan frontend & desain web saat butuh jeda dari logika backend
 
-## 📬 Connect & Collaborate
+🌱 Sedang menempuh **Teknik Informatika** di **Politeknik Negeri Malang**
 
-> *"Have an idea worth building? Let's write the code and create something useful."*
+📡 Tertarik menghubungkan dunia fisik dan digital lewat **IoT**
 
-- 📧 **Direct Email:** [aiininratna02@gmail.com](mailto:aiininratna02@gmail.com)
-- 🐙 **GitHub:** [@aiininratna](https://github.com/aiininratna)
-- 💼 **LinkedIn:** [Aiinin Ratna](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-- 🌐 **Portfolio Website:** [aiininratna.github.io](https://aiininratna.github.io)
+💬 Tanya saya soal **Web Development, Frontend, UI/UX Basics, IoT dasar**
 
----
+⚡ Suka struktur data, algoritma, dan sistem yang rapi
+
+✨ Belajar sesuatu yang baru tiap minggu
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<img src="assets/programmer.svg" width="100%" alt="Programmer illustration" />
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+🌟 **Follow Me on:**
+
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:aiininratna02@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+<h3 align="center">🧰 Languages & Tools I Have Placed My Hands On</h3>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,php,java,mysql,mongodb,git,github,docker,vscode,figma,arduino,raspberrypi,linux&perline=10" />
+</div>
+
+<h3 align="center">⚡ 📊 GitHub Stats</h3>
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aiininratnadwitanti&show_icons=true&theme=github_dark&hide_border=false&border_color=2d2d4d&bg_color=0d1117" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aiininratnadwitanti&theme=github-dark-blue&hide_border=false&border=2d2d4d" />
+<br/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiininratnadwitanti&layout=compact&theme=github_dark&hide_border=false&border_color=2d2d4d&bg_color=0d1117" />
+</div>
+
+<h3 align="center">🖥️ Tech Stack:</h3>
 
 <div align="center">
 
-```
-AIININ.DEV // Code Beyond Limits
-Designed with modern developer aesthetics • Built with care
-```
-
-[⬆ Back to Top](#aiinindev--code-beyond-limits)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ARDUINO-00979D?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/RASPBERRY%20PI-A22846?style=flat-square&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
 
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### ⭐ Top Contributed Repo
+
+<a href="https://github.com/aiininratnadwitanti/NAMA_REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aiininratnadwitanti&repo=NAMA_REPO&theme=github_dark&border_color=2d2d4d&bg_color=0d1117" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=github_dark" />
+
+</td>
+</tr>
+</table>
+
+<h2 align="center">Support Me 💰</h2>
+
+<div align="center">
+<a href="https://www.buymeacoffee.com/USERNAME"><img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" /></a>
+</div>
+
+<br/>
+
+<img src="assets/footer.svg" width="100%" alt="IoT city footer" />
