@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Ratna The Builder" />
+<img src="banner.svg" width="100%" alt="Ratna The Builder" />
 
 <br/>
 
@@ -35,7 +35,7 @@
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="assets/programmer.svg" width="100%" alt="Programmer illustration" />
+<img src="programmer.svg" width="100%" alt="Programmer illustration" />
 
 </td>
 </tr>
@@ -121,4 +121,4 @@
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="IoT city footer" />
+<img src="footer.svg" width="100%" alt="IoT city footer" />
