@@ -2,7 +2,7 @@
 
 <img src="hero.svg" width="100%" alt="Ratna - Web Developer x IoT Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&height=50&lines=Web+Developer;IoT+Enthusiast;Lifelong+Learner;Open+to+Collaborate" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=FF5FA2&center=true&vCenter=true&width=700&height=50&lines=Web+Developer;IoT+Enthusiast;ESP32+Tinkerer;Lifelong+Learner" alt="typing" />
 
 <br/>
 
@@ -18,25 +18,74 @@
 <br/><br/>
 
 <img src="head-iot.svg" width="100%" />
-<img src="iot-flow.svg" width="100%" />
+<img src="project-aquarium.svg" width="100%" alt="Smart Aquarium" />
+<br/><br/>
+<img src="project-village.svg" width="100%" alt="Smart Village" />
 
 <br/><br/>
 
-<img src="head-stack.svg" width="100%" />
+<img src="head-skills.svg" width="100%" />
+<img src="skills.svg" width="100%" />
+<br/><br/>
 <img src="stack.svg" width="100%" />
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,python,php,java,mysql,mongodb,git,github,docker,vscode,figma,arduino,raspberrypi,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php,java,html,css,react,tailwind,nodejs,mysql,mongodb,arduino,git,github,docker&perline=9" />
 
 <br/><br/>
+
+<img src="head-web.svg" width="100%" />
+
+</div>
+
+<img src="web-1.svg" align="left" width="46%" alt="Proyek Web 1" />
+
+### 🧩 Nama Proyek Web 1
+Deskripsi singkat proyek: masalah yang diselesaikan dan siapa penggunanya.
+
+`React` `Node.js` `MySQL`
+
+[🔗 Lihat Repo](https://github.com/aiininratnadwitanti/NAMA_REPO_1)
+
+<br clear="all"/>
+<br/>
+
+<img src="web-2.svg" align="right" width="46%" alt="Proyek Web 2" />
+
+### 🌐 Nama Proyek Web 2
+Deskripsi singkat proyek: fitur utama dan teknologi yang dipakai.
+
+`HTML` `CSS` `JavaScript`
+
+[🔗 Lihat Repo](https://github.com/aiininratnadwitanti/NAMA_REPO_2)
+
+<br clear="all"/>
+<br/>
+
+<img src="web-3.svg" align="left" width="46%" alt="Proyek Web 3" />
+
+### 📱 Nama Proyek Web 3
+Deskripsi singkat proyek: fitur utama dan teknologi yang dipakai.
+
+`PHP` `MySQL` `Tailwind`
+
+[🔗 Lihat Repo](https://github.com/aiininratnadwitanti/NAMA_REPO_3)
+
+<br clear="all"/>
+
+<div align="center">
+
+<br/>
 
 <img src="head-stats.svg" width="100%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aiininratnadwitanti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aiininratnadwitanti&theme=tokyonight&hide_border=true&border_radius=16" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="GitHub 3D contribution" />
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/aiininratnadwitanti/aiininratnadwitanti/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aiininratnadwitanti&show_icons=true&theme=radical&hide_border=true&border_radius=16" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aiininratnadwitanti&theme=radical&hide_border=true&border_radius=16" />
+
+<br/>
 
 <img src="footer.svg" width="100%" />
 
