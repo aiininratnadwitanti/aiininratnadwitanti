@@ -2,7 +2,7 @@
 
 <img src="hero (1).svg" width="100%" alt="Ratna - Web Developer x IoT Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=FF5FA2&center=true&vCenter=true&width=700&height=50&lines=Web+Developer;IoT+Enthusiast;ESP32+Tinkerer;Lifelong+Learner" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2800&pause=900&color=FF5FA2&center=true&vCenter=true&width=700&height=50&lines=Web+Developer;IoT+Enthusiast;UI/UX+Designer;Lifelong+Learner" alt="typing" />
 
 <br/>
 
