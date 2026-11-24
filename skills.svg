@@ -1,38 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
 <defs>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#3B82F6"/>
-<stop offset="1" stop-color="#93C5FD"/>
-</linearGradient>
-<linearGradient id="accentV" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#60A5FA"/>
-<stop offset="1" stop-color="#3B82F6"/>
-</linearGradient>
-<linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-<stop offset="0" stop-color="#3B82F6" stop-opacity="0.9"/>
-<stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="cardbg" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#0D2545"/>
-<stop offset="1" stop-color="#102C52"/>
+<linearGradient id="cover" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#06111F"/>
+<stop offset="1" stop-color="#08182B"/>
 </linearGradient>
 
 </defs>
-<rect x="64" y="32" width="1072" height="236" rx="20" fill="#0D2545" stroke="#1E416E"/>
-<text x="104" y="78" font-size="15" font-weight="600" fill="#EAF2FF">Python</text>
-<text x="544" y="78" text-anchor="end" font-size="13" font-weight="600" fill="#93C5FD">80%</text>
-<rect x="104" y="92" width="440" height="8" rx="4" fill="#061326"/>
-<rect x="104" y="92" width="352.0" height="8" rx="4" fill="#3B82F6"/>
-<text x="624" y="78" font-size="15" font-weight="600" fill="#EAF2FF">React</text>
-<text x="1064" y="78" text-anchor="end" font-size="13" font-weight="600" fill="#93C5FD">70%</text>
-<rect x="624" y="92" width="440" height="8" rx="4" fill="#061326"/>
-<rect x="624" y="92" width="308.0" height="8" rx="4" fill="#60A5FA"/>
-<text x="104" y="178" font-size="15" font-weight="600" fill="#EAF2FF">SQL</text>
-<text x="544" y="178" text-anchor="end" font-size="13" font-weight="600" fill="#93C5FD">70%</text>
-<rect x="104" y="192" width="440" height="8" rx="4" fill="#061326"/>
-<rect x="104" y="192" width="308.0" height="8" rx="4" fill="#93C5FD"/>
-<text x="624" y="178" font-size="15" font-weight="600" fill="#EAF2FF">Node.js</text>
-<text x="1064" y="178" text-anchor="end" font-size="13" font-weight="600" fill="#93C5FD">60%</text>
-<rect x="624" y="192" width="440" height="8" rx="4" fill="#061326"/>
-<rect x="624" y="192" width="264.0" height="8" rx="4" fill="#2563EB"/>
+<rect width="1200" height="280" fill="#06111F"/>
+<text x="64" y="64" font-size="18" fill="#A9BBD1">Yang saya pakai sehari-hari, dan yang sedang saya perdalam.</text>
+<text x="64" y="92" font-size="16" fill="#A9BBD1">Saya memilih tools berdasarkan kebutuhan proyek, bukan karena tren.</text>
+<text x="64" y="216" font-size="14" fill="#6E85A0">Berdasarkan proyek yang saya kerjakan.</text>
+<rect x="580" y="44" width="1" height="200" fill="#16304C"/>
+<text x="620" y="64" font-size="20" fill="#F2F6FB">TypeScript dan JavaScript</text>
+<text x="1136" y="64" text-anchor="end" font-size="15" fill="#8CB8E6">Harian</text>
+<rect x="620" y="88" width="516" height="1" fill="#1D3854"/>
+<text x="620" y="116" font-size="20" fill="#F2F6FB">React, Vite, Tailwind</text>
+<text x="1136" y="116" text-anchor="end" font-size="15" fill="#8CB8E6">Harian</text>
+<rect x="620" y="140" width="516" height="1" fill="#1D3854"/>
+<text x="620" y="168" font-size="20" fill="#F2F6FB">PHP, Laravel, MySQL</text>
+<text x="1136" y="168" text-anchor="end" font-size="15" fill="#8CB8E6">Nyaman</text>
+<rect x="620" y="192" width="516" height="1" fill="#1D3854"/>
+<text x="620" y="220" font-size="20" fill="#F2F6FB">Python, ESP32</text>
+<text x="1136" y="220" text-anchor="end" font-size="15" fill="#8CB8E6">Sedang dipelajari</text>
 </svg>
